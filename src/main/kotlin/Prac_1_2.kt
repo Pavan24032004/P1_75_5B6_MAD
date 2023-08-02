@@ -1,3 +1,4 @@
+import java.util.*
 fun main()
 {
     var a1=10
